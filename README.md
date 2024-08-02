@@ -23,8 +23,8 @@ Before running the application, ensure you have the following installed on your 
 Clone the repository to your local machine:
 
 ```bash
-git clone repo_url
-cd repo
+git clone https://github.com/firdous-wani/betacrew-exchange-server.git
+cd betacrew-exchange-server
 ```
 
 ## Running the Application
